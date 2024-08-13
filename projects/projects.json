@@ -1,0 +1,65 @@
+[
+  
+  {
+    "name": "Virtual Voice Assistant using python",
+    "desc": "Virtual voice assistant is a personal assistant developed for window based system, it has been designed to provide a user-friendly interface to carrying out a variety of tasks",
+    "image": "VVA1",
+    "category": "VVA1",
+    "links": {
+      "view": "./Personal portifolio Website/assets/images/projects/VVA1.png",
+      "code": "https://github.com/Nagababu1003/Virtual-Voice-Assistant"
+    }
+  },
+  {
+    "name": "E-pilot System to Predict Hard Landing",
+    "desc": "",
+    "image": "epilots",
+    "category": "epilots",
+    "links": {
+      "view": "assets/images/projects/epilots.png",
+      "code": "https://github.com/Nagababu1003/nagababu1702"
+    }
+  },
+
+  {
+    "name": "E-Commerce Grocery Website Design using UI/UX ",
+    "desc": "An E-commerce Grocery website developed using Figma to interact more responsive and User-friendly design using UI?UX Development",
+    "image": "Grocery",
+    "category": "Grocery",
+    "links": {
+      "view": "assets/images/projects/Grocery.png",
+      "code": "https://www.figma.com/design/IVEFKJRaq40bd3Xvlb5AlS"
+    }
+  },
+  {
+    "name": "E-Commerce Report using Power BI ",
+    "desc": "An E-Commerce Report is a Dashboard of sales by different countries, markets, categories & state devevloped using Microsoft Power BI",
+    "image": "E-commerce",
+    "category": "E-commerce",
+    "links": {
+      "view": "assets/images/projects/E-commerce.png",
+      "code": "https://github.com/Nagababu1003/Power-Bi-Project-"
+    }
+  },
+  {
+    "name": "Amazon Sales and profit using Tableau",
+    "desc": "Amazon sales and profit is a Dashboard of different products and categories developed using Tableau",
+    "image": "Amazon",
+    "category": "Amazon",
+    "links": {
+      "view": "assets/images/projects/Amazon.png",
+      "code": "https://github.com/Nagababu1003/Tableau-Project"
+    }
+  },
+  {
+    "name": "Weather App using Html Css and Javascript ",
+    "desc": "Weather app is a website which consists of the live weather report of the diiferent countries and states",
+    "image": "weather",
+    "category": "weather",
+    "links": {
+      "view": "assets/images/projects/Weather.png",
+      "code": "https://github.com/Nagababu1003/Weather-App"
+    }
+  }
+]
+
