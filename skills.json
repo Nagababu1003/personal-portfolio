@@ -1,0 +1,78 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+  
+    {
+        "name": "BootStrap",
+        "icon": "https://img.icons8.com/color/48/bootstrap--v1.png"
+    },
+    
+    {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/color/48/spring-logo.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+   
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "React JS",
+        "icon": "https://img.icons8.com/color/48/react-native.png"
+    },
+
+    {
+        "name" : "Java",
+        "icon" : "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name" : "Node JS",
+        "icon" : "https://img.icons8.com/color/48/nodejs.png"
+    },
+    {
+        "name" : "Power BI",
+        "icon" : "https://img.icons8.com/fluency/48/power-bi-2021.png"
+    },
+    {
+        "name" : "Tableau",
+        "icon" : "https://img.icons8.com/color/48/tableau-software.png"
+    },
+    {
+        "name" : "figma",
+        "icon" : "https://img.icons8.com/nolan/48/1A6DFF/C822FF/figma.png"
+    },
+    {
+        "name" : "AWS Basics",
+        "icon" : "https://img.icons8.com/nolan/48/amazon-web-services.png"
+    },
+    {
+        "name" : "Github",
+        "icon" : "https://img.icons8.com/fluency/48/github.png"
+    },
+    {
+        "name" : "ChatGPT",
+        "icon" : "https://img.icons8.com/fluency/48/chatgpt--v2.png"
+    },
+    {
+        "name" : "SQL",
+        "icon" : "https://img.icons8.com/arcade/48/sql.png"
+    }
+]
