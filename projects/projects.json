@@ -6,7 +6,7 @@
     "image": "VVA1",
     "category": "VVA1",
     "links": {
-      "view": "./assets/images/projects/VVA1.png",
+      "view": "../assets/images/projects/VVA1.png",
       "code": "https://github.com/Nagababu1003/Virtual-Voice-Assistant"
     }
   },
@@ -16,7 +16,7 @@
     "image": "epilots",
     "category": "epilots",
     "links": {
-      "view": "./assets/images/projects/epilots.png",
+      "view": "../assets/images/projects/epilots.png",
       "code": "https://github.com/Nagababu1003/nagababu1702"
     }
   },
@@ -27,7 +27,7 @@
     "image": "Grocery",
     "category": "Grocery",
     "links": {
-      "view": "./assets/images/projects/Grocery.png",
+      "view": "../assets/images/projects/Grocery.png",
       "code": "https://www.figma.com/design/IVEFKJRaq40bd3Xvlb5AlS"
     }
   },
@@ -37,7 +37,7 @@
     "image": "E-commerce",
     "category": "E-commerce",
     "links": {
-      "view": "./assets/images/projects/E-commerce.png",
+      "view": "../assets/images/projects/E-commerce.png",
       "code": "https://github.com/Nagababu1003/Power-Bi-Project-"
     }
   },
@@ -47,7 +47,7 @@
     "image": "Amazon",
     "category": "Amazon",
     "links": {
-      "view": "./assets/images/projects/Amazon.png",
+      "view": "../assets/images/projects/Amazon.png",
       "code": "https://github.com/Nagababu1003/Tableau-Project"
     }
   },
@@ -57,7 +57,7 @@
     "image": "weather",
     "category": "weather",
     "links": {
-      "view": "./assets/images/projects/Weather.png",
+      "view": "../assets/images/projects/Weather.png",
       "code": "https://github.com/Nagababu1003/Weather-App"
     }
   }
