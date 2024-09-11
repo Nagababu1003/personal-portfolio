@@ -6,7 +6,7 @@
     "image": "VVA1",
     "category": "VVA1",
     "links": {
-      "view": "/assets/images/projects/VVA1.png",
+      "view": "assets/images/projects/VVA1.png",assets/images/projects
       "code": "https://github.com/Nagababu1003/Virtual-Voice-Assistant"
     }
   },
