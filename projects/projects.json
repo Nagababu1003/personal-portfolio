@@ -17,48 +17,48 @@
     "category": "epilots",
     "links": {
       "view": "../assets/images/projects/epilots.png",
-      "code": "https://github.com/Nagababu1003/nagababu1702"
+      "code": "https://github.com/Nagababu1003/E-pilots-system"
     }
   },
 
   {
-    "name": "E-Commerce Grocery Website Design using UI/UX ",
-    "desc": "An E-commerce Grocery website developed using Figma to interact more responsive and User-friendly design using UI?UX Development",
+    "name": "Personal Portifolio Website Design using UI/UX ",
+    "desc": "An Personal Portfolio website developed using Figma to interact more responsive and User-friendly design using UI?UX Development",
     "image": "Grocery",
     "category": "Grocery",
     "links": {
-      "view": "..assets/images/projects/Grocery.png",
-      "code": "https://www.figma.com/design/IVEFKJRaq40bd3Xvlb5AlS"
+      "view": "https://www.figma.com/proto/XU1f8ne445wLk63s69YZqf/Untitled?page-id=38%3A3&node-id=78-99&node-type=frame&viewport=605%2C688%2C0.07&t=WyXbEPW9WDZP0HUj-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=75%3A2&show-proto-sidebar=1",
+      "code": "https://www.figma.com/proto/XU1f8ne445wLk63s69YZqf/Untitled?page-id=38%3A3&node-id=78-99&node-type=frame&viewport=605%2C688%2C0.07&t=WyXbEPW9WDZP0HUj-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=75%3A2&show-proto-sidebar=1"
     }
   },
   {
-    "name": "E-Commerce Report using Power BI ",
+    "name": "Personal Portifolio",
     "desc": "An E-Commerce Report is a Dashboard of sales by different countries, markets, categories & state devevloped using Microsoft Power BI",
     "image": "E-commerce",
     "category": "E-commerce",
     "links": {
-      "view": "../assets/images/projects/E-commerce.png",
-      "code": "https://github.com/Nagababu1003/Power-Bi-Project-"
+      "view": "https://nagababu-portfolio.vercel.app/",
+      "code": "https://github.com/Nagababu1003/personal-portfolio"
     }
   },
   {
-    "name": "Amazon Sales and profit using Tableau",
+    "name": "A Simple Calculator Using Html-css-Javascript",
     "desc": "Amazon sales and profit is a Dashboard of different products and categories developed using Tableau",
     "image": "Amazon",
     "category": "Amazon",
     "links": {
-      "view": "../assets/images/projects/Amazon.png",
-      "code": "https://github.com/Nagababu1003/Tableau-Project"
+      "view": "https://mycalciulator.vercel.app/",
+      "code": "https://github.com/Nagababu1003/mycalculator"
     }
   },
   {
-    "name": "Weather App using Html Css and Javascript ",
-    "desc": "Weather app is a website which consists of the live weather report of the diiferent countries and states",
-    "image": "weather",
-    "category": "weather",
+    "name": "Food App Design using UI/UX ",
+    "desc": "An Personal Portfolio website developed using Figma to interact more responsive and User-friendly design using UI?UX Development",
+    "image": "Grocery",
+    "category": "Grocery",
     "links": {
-      "view": "../assets/images/projects/Weather.png",
-      "code": "https://github.com/Nagababu1003/Weather-App"
+      "view": "",
+      "code": "https://www.figma.com/design/IVEFKJRaq40bd3Xvlb5AlS"
     }
   }
 ]
