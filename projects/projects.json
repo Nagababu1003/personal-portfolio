@@ -47,18 +47,18 @@
     "image": "Calculator",
     "category": "Calculator",
     "links": {
-      "view": "https://mycalciulator.vercel.app/",
-      "code": "https://github.com/Nagababu1003/mycalculator"
+      "view": "https://calculator-seven-rosy-78.vercel.app/",
+      "code": "https://github.com/Nagababu1003/calculator"
     }
   },
   {
-    "name": "Food App Design using UI/UX ",
-    "desc": "An Personal Portfolio website developed using Figma to interact more responsive and User-friendly design using UI?UX Development",
-    "image": "Food",
-    "category": "Food",
+    "name": "Todo-List",
+    "desc": "An Personal website developed using Html,Css to interact with our day-to-day activities in the form of To-do-List",
+    "image": "Todo",
+    "category": "Todo",
     "links": {
-      "view": "https://www.figma.com/proto/XU1f8ne445wLk63s69YZqf/Untitled?page-id=0%3A1&node-id=6-122&node-type=frame&viewport=600%2C400%2C0.19&t=4x1PI6jOgEjsZfZ7-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=26%3A141&show-proto-sidebar=1",
-      "code": "https://www.figma.com/proto/XU1f8ne445wLk63s69YZqf/Untitled?page-id=0%3A1&node-id=6-122&node-type=frame&viewport=600%2C400%2C0.19&t=4x1PI6jOgEjsZfZ7-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=26%3A141&show-proto-sidebar=1"
+      "view": "https://todo-list-omega-seven-18.vercel.app/",
+      "code": "https://github.com/Nagababu1003/TodoList"
     }
   }
 ]
